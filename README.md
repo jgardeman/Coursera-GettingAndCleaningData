@@ -1,9 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 datasciencecoursera
 ===================
 
 Jesse's Data Science Coursera Repo
 =======
+=======
+>>>>>>> 6f14363ac99b9a90841700050ef1eab34aaa0dd5
 ###Coursera-GettingAndCleaningData
 ===============================
 
@@ -22,4 +25,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 * Creates a tidy data set with the average of each variable (from the mean and standard deviation filter) for each activity and subject.
 
 The code assumes the data is in your working directory.  
+<<<<<<< HEAD
+>>>>>>> 6f14363ac99b9a90841700050ef1eab34aaa0dd5
+=======
 >>>>>>> 6f14363ac99b9a90841700050ef1eab34aaa0dd5
